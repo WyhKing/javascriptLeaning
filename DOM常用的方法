@@ -1,0 +1,6 @@
+DOM常用的五个常用方法：
+getElementById(id);
+getElementsByTagName(tagName);
+getElementsByClassName(className);
+getAttribute(attribute);
+setAttribute(attribute, value);
