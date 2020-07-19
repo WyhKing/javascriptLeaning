@@ -1,0 +1,5 @@
+childNodes:获取节点下面的所有子节点
+nodeType:属性类型
+nodeValue:属性的值
+firstChild:第一个子节点
+lastChild:最后一个节点
